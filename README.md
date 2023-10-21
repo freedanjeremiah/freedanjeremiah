@@ -1,63 +1,49 @@
-# Hi there, I'm Freeda Jeremiah your average engineer👋 
+<h1 align="">Hey there..!👋</h1>
+<p align="">I'm Freedan Jeremiah, your average engineer and an amature musician</p>
 
-[![Website](https://freedanjeremiahh.vercel.app)
+##  Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=LinkedIn&logoColor=white&color=fff)]([https://linkedin.com/in/freedanjeremiah](https://www.linkedin.com/in/freedan-jeremiah-b51887226/)) [![Email](https://img.shields.io/badge/Gmail--informational?style=flat&logo=Gmail&logoColor=white&color=fff)](mailto:freedanjeremiah4@gmail.com) 
 
 
-## I'm a Engineer, Developer, and an amature musician!!
+##  Tech Stack:
+<img src="https://img.shields.io/badge/HTML5--informational?style=flat&logo=HTML5&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Javascript--informational?style=flat&logo=Javascript&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Python--informational?style=flat&logo=Python&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Markdown--informational?style=flat&logo=Markdown&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Typescript--informational?style=flat&logo=Typescript&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Firebase--informational?style=flat&logo=Firebase&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Vercel--informational?style=flat&logo=Vercel&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap--informational?style=flat&logo=Bootstrap&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/express.js--informational?style=flat&logo=Express&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Flask--informational?style=flat&logo=Flask&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Node.js--informational?style=flat&logo=node.js&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Next.js--informational?style=flat&logo=Next.js&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/React--informational?style=flat&logo=React&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/React_Native--informational?style=flat&logo=react&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/React_Router--informational?style=flat&logo=React-Router&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/MongoDB--informational?style=flat&logo=MongoDB&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Supabase--informational?style=flat&logo=Supabase&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/SQLite--informational?style=flat&logo=SQLite&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/PostgresQL--informational?style=flat&logo=PostgresQL&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/MySQL--informational?style=flat&logo=MySQL&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Docker--informational?style=flat&logo=Docker&logoColor=white&color=fff">&nbsp;
+<img src="https://img.shields.io/badge/Postman--informational?style=flat&logo=Postman&logoColor=white&color=fff">
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more 
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+## Github Profile Stats:
+<p align="center">
+  <img 
+    src="https://github-readme-streak-   stats.herokuapp.com/user=freedanjeremiah&background=0d1117&border=FFF&stroke=FFF&ring=FFF&fire=FFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF">
+  </p>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freedanjeremiah&background=0d1117&border=FFF&stroke=FFF&ring=FFF&fire=FFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF">
+  <br/>
+   <img src="https://komarev.com/ghpvc/?username=fabianferno&color=000000" width="130px"/>
+</div>
 
-<br />
-<br />
+<!--<img src= "https://komarev.com/ghpvc/?username=freedanjeremiah&color=000000" width="130px"/>-->
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. 🗣 Commented on [#1235](https://github.com/shadcn-ui/ui/issues/1235#issuecomment-1679215686) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. ❗ Opened issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. 🗣 Commented on [#35](https://github.com/GH-Event-Demos/random-name-picker/issues/35#issuecomment-1572138731) in [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://freedanjeremiah.vercel.app
-[twitter]: https://twitter.com/
-[instagram]: https://instagram.com/freedanjeremiah
-[linkedin]: https://linkedin.com/in/freedanjeremiah
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<!--<img src="https://github-readme-stats.vercel.app/api?username=freedanjeremiah&count_private=true&show_icons=true&title_color=FFF&icon_color=FFF&text_color=FFF&bg_color=0d1117">
+<img src="https://raw.githubusercontent.com/freedanjeremiah/github-stats/master/generated/languages.svg">
+<img src="https://activity-graph.herokuapp.com/graph?username=freedanjeremiah&bg_color=0d1117&color=fff&line=fff&point=fff&area_color=fff&area=true">-->
